@@ -10,4 +10,4 @@ lint:
 	flake8 hello_world test
 
 test:
-	PYTHONPATH=. py.test --verbose -ss
+	PYTHONPATH=. py.test --verbos -s
